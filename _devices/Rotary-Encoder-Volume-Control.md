@@ -16,6 +16,7 @@ These devices usually have a built in momentary switch which you activate by pre
 You can also use this to control, for example, smart bulbs.
 
 ## Wemos Pinout
+
 | Pin     | Function                           |
 |---------|------------------------------------|
 | D7      | Push Button on rotary encoder      |
